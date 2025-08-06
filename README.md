@@ -4,11 +4,18 @@
 <div align="center">
 🌟 Welcome to My Digital Universe 🌟
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20Code&descAlignY=51&descAlign=50" />
+    
+---
 <h1 align="center">Hi 👋, I'm Muskan!</h1>
+
 🌱 I'm currently learning Machine Learning, React & Next Js
+
 💬 Ask me about React, Next Js, Typescript & Javascript
+
 📫 How to reach me muskangen1395@gmail.com
+
 ⚡ Fun fact I think I can code!
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI+%26+ML+ENTHUSIAST;⚡+PERFORMANCE+OPTIMIZER;🌐+OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" />
 </div>
@@ -19,6 +26,8 @@
   <img src="https://img.shields.io/github/followers/muskankumari1395?label=FOLLOWERS&style=for-the-badge&color=orange&labelColor=000000" />
   <img src="https://img.shields.io/github/stars/muskankumari1395?label=TOTAL+STARS&style=for-the-badge&color=yellow&labelColor=000000" />
 </div>
+
+---
 <!-- GitHub Stats - Multiple sources for reliability -->
 📊 GITHUB ANALYTICS
 <div align="center">
@@ -46,6 +55,8 @@
 </div>
 </div>
 
+---
+
 🎯 MISSION STATEMENT
 <table align="center">
   <tr>
@@ -72,6 +83,8 @@
   </tr>
 </table>
 
+---
+
 🧰 Languages & Tools
 <p align="center">
   <!-- Web & Styling -->
@@ -87,6 +100,8 @@
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
+
+---
 
 🎭 CODING PHILOSOPHY
 </div>
@@ -109,6 +124,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 🌐 CONNECT WITH ME
 <div align="center">
@@ -138,6 +155,8 @@
 <a href="https://www.facebook.com/muskankumari1395" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
 </a>
+
+---
 <br/><br/>
 <img src="https://img.shields.io/badge/Open%20for-Collaboration-00ff00?style=for-the-badge&logo=handshake&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Available%20for-Freelance-ff6b6b?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000" />
