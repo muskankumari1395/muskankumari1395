@@ -132,11 +132,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!" />
 <br/><br/>
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/muskankumari1395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/muskan-kumari-33aba1360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/muskankumari1395?igsh=bmhreWxvcnlmdnh1" target="_blank">
+<a href="https://www.instagram.com/muskankumariii_?igsh=MWdvb2F2azg1dGhrMQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
 <!-- Gmail -->
@@ -144,18 +144,14 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <!-- Portfolio -->
-<a href="https://my-portfolio-eta-ecru-34.vercel.app/" target="_blank">
+<a href="https://my-portfolio-react-js-ttcf.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF6B6B" />
 </a>
 <!-- WhatsApp -->
 <a href="https://wa.me/9330810097" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
 </a>
-<!-- Facebook -->
-<a href="https://www.facebook.com/muskankumari1395" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
-</a>
-
+    
 ---
 <br/><br/>
 <img src="https://img.shields.io/badge/Open%20for-Collaboration-00ff00?style=for-the-badge&logo=handshake&logoColor=white&labelColor=000000" />
